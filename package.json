@@ -1,0 +1,23 @@
+{
+  "name": "docker-test",
+  "version": "1.0.0",
+  "description": "Docker Unit Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LemyDanger/docker-test.git"
+  },
+  "author": "Joachim Hahn <joachim.hahn@1und1.de>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LemyDanger/docker-test/issues"
+  },
+  "homepage": "https://github.com/LemyDanger/docker-test#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
